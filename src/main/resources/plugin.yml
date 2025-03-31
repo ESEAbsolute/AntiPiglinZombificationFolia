@@ -1,0 +1,8 @@
+name: AntiPiglinZombificationFolia
+version: '1.0.0'
+main: com.eseabsolute.apzfolia.AntiPiglinZombification
+folia-supported: true
+api-version: '1.21'
+load: STARTUP
+authors: [ ESEAbsolute ]
+description: Prevent piglins from zombification by giving them names
